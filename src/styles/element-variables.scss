@@ -1,0 +1,21 @@
+@use 'element-plus/theme-chalk/src/common/var.scss' as *;
+
+
+/* 自定义主题颜色 */
+$--color-primary: #fcba2d; /* 主色橙色 */
+// $--color-success: #67C23A;   /* 成功状态：浅绿色 */
+// $--color-warning: #E6A23C;   /* 警告状态：橙色 */
+// $--color-danger: #F56C6C;    /* 错误状态：红色 */
+// $--color-info: #909399;      /* 信息状态：灰色 */
+/* 自定义字体 */
+// $--font-size-small: 12px;
+// $--font-size-medium: 14px;
+// $--font-size-large: 16px;
+
+/* 自定义按钮样式 */
+// $--button-height: 40px;
+// $--button-font-size: 14px;
+/* 引入 Element Plus 的默认主题 */
+
+
+@use 'element-plus/theme-chalk/src/index.scss';
